@@ -1,4 +1,6 @@
-package com.homeshop;
+package com.homeshop.product;
+
+import com.homeshop.Bill;
 
 public class Product
 {

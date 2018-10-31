@@ -1,4 +1,8 @@
-package com.homeshop;
+import com.homeshop.*;
+import com.homeshop.delivery.RelayDelivery;
+import com.homeshop.product.Fridge;
+import com.homeshop.product.Product;
+import com.homeshop.product.Television;
 
 public class Main {
 

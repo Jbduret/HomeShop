@@ -1,4 +1,4 @@
-package com.homeshop;
+package com.homeshop.product;
 
 public class Television extends Product
 {

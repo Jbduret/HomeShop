@@ -1,5 +1,8 @@
 package com.homeshop;
 
+import com.homeshop.delivery.Delivery;
+import com.homeshop.product.Product;
+
 import java.util.HashMap;
 import java.util.Map;
 

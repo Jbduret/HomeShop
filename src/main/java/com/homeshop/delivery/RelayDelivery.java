@@ -1,4 +1,4 @@
-package com.homeshop;
+package com.homeshop.delivery;
 
 public class RelayDelivery implements Delivery
 {
